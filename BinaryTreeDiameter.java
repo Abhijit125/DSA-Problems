@@ -1,3 +1,21 @@
+/*
+
+Input =						1
+
+					2				3
+
+				4		5
+
+			6				7
+
+		8						9
+
+OUTPUT = 6
+
+EXPLAINATION = HERE THE MAX HEIGHT NODES is 8->6->4->2->5->7->9 is 6
+
+*/
+
 class BinaryTreeDiameter 
 {
 	public static void main(String[] args) 
